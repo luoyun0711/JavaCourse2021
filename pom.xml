@@ -6,6 +6,7 @@
     <modules>
         <module>jvm01</module>
         <module>week02</module>
+        <module>week03</module>
     </modules>
     <parent>
         <groupId>org.springframework.boot</groupId>

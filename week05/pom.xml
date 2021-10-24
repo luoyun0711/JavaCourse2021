@@ -38,6 +38,11 @@
             <groupId>org.projectlombok</groupId>
             <artifactId>lombok</artifactId>
         </dependency>
+        <dependency>
+            <groupId>com.luoyun.course</groupId>
+            <artifactId>school-spring-boot-starter  </artifactId>
+            <version>1.0.0</version>
+        </dependency>
     </dependencies>
 
     <build>

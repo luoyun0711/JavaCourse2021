@@ -1,7 +1,5 @@
 package com.luoyun.course.spring.bean_assembly;
 
-import org.springframework.beans.factory.annotation.Autowired;
-import org.springframework.context.annotation.Bean;
 import org.springframework.web.bind.annotation.*;
 
 import javax.annotation.Resource;

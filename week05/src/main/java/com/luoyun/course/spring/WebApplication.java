@@ -1,12 +1,10 @@
-package com.luoyun.course.spring.bean_assembly;
+package com.luoyun.course.spring;
 
+import com.luoyun.course.spring.bean_assembly.ConfigurationAssembly;
 import org.springframework.boot.SpringApplication;
-import org.springframework.boot.autoconfigure.ImportAutoConfiguration;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 import org.springframework.context.annotation.Import;
 import org.springframework.context.annotation.ImportResource;
-
-import javax.annotation.Resource;
 
 /**
  * WebApplication

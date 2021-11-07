@@ -11,6 +11,7 @@
         <module>week05</module>
         <module>school-spring-boot-starter</module>
         <module>week06</module>
+        <module>week07</module>
     </modules>
     <parent>
         <groupId>org.springframework.boot</groupId>
